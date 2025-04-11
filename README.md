@@ -77,7 +77,7 @@
 ### 🤝 Conecte-se comigo
 
 - 📬 Email: **guilhermebszimzek@gmail.com**  
-- 💼 LinkedIn:(https://www.linkedin.com/in/guilherme-szimzek-86247626a/)
+- 💼 LinkedIn: https://www.linkedin.com/in/guilherme-szimzek-86247626a/
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=GuilhermeBorgesS&label=Profile+views&color=0e75b6&style=flat" alt="Visualizações no perfil" />
