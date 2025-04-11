@@ -51,7 +51,9 @@
 
 🔗 **Repositório:** [GuilhermeBorgesS/Projeto-Mobile](https://github.com/GuilhermeBorgesS/Projeto-Mobile)
 
-<img src="https://tenor.com/search/emoji-nerd-gifs" width="100%" />
+<p align="center">
+  <img src="https://media.tenor.com/vfMH6D2r0fUAAAAi/nerd-emoji-nerd.gif" width="200px" alt="Nerd emoji gif" />
+</p>
 
 ---
 
