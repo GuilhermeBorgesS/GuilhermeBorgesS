@@ -51,7 +51,7 @@
 
 🔗 **Repositório:** [GuilhermeBorgesS/Projeto-Mobile](https://github.com/GuilhermeBorgesS/Projeto-Mobile)
 
-<img src="[https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWIxNjU5YTYzNzA1Y2JjYWE1OTY1YmQ3NTM1YWIxZjEwZTVjODg0NyZjdD1n/RbDKaczqWovIugyJmW/giphy.gif](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGtlcnI5YjM4aThscmM3dm81eTBiMDFveHFtaTNvZXFyYWtrM3JyOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif)" width="100%" />
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGtlcnI5YjM4aThscmM3dm81eTBiMDFveHFtaTNvZXFyYWtrM3JyOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" width="100%" />
 
 ---
 
