@@ -1,61 +1,89 @@
-<!-- README.md para perfil do GitHub -->
+<!-- README.md | Perfil Profissional - Guilherme Borges -->
 
-<h1 align="center">👋 Olá, eu sou o Guilherme Borges!</h1>
-<h3 align="center">💻 Estudante de TI no IFPR | Apaixonado por desenvolvimento e tecnologia</h3>
-
----
-
-🌟 **Sobre mim**
-
-- 🎓 Estudante do **4º ano de Informática no IFPR**
-- 🚀 Focado em **desenvolvimento de sistemas e produtividade**
-- 💡 Gosto de criar soluções que **ajudem pessoas a organizarem suas rotinas**
-- 📚 Atualmente desenvolvendo meu **TCC com foco em organização de estudos**
-
----
-
-### 🛠️ Tecnologias que uso
-
-<div style="display: flex; flex-wrap: wrap;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40px" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40px" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40px" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40px" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40px" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40px" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40px" />
-</div>
-
----
-
-### 🚧 Projeto em destaque
-
-#### 📱 Projeto-Mobile - Plataforma de organização de estudos
-
-> Aplicativo desenvolvido como projeto do 3° ano no IFPR. A proposta é ajudar estudantes a organizarem suas tarefas, anotações, cronogramas e tempo de estudo por meio de uma interface intuitiva.
-
-🔗 [Acesse o repositório aqui](https://github.com/GuilhermeBorgesS/Projeto-Mobile)
-
----
-
-### 📊 Estatísticas GitHub
-
-<div align="center">
-  <img height="170px" src="https://github-readme-stats.vercel.app/api?username=GuilhermeBorgesS&show_icons=true&theme=tokyonight&count_private=true" />
-  <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeBorgesS&layout=compact&theme=tokyonight" />
-</div>
-
----
-
-### 🤝 Vamos nos conectar!
-
-- 📫 Email: **guilhermebszimzek@gmail.com**
-- 💼 Sempre aberto a novas oportunidades e colaborações!
+<h1 align="center">Olá! Eu sou o Guilherme Borges 👋</h1>
+<h3 align="center">Desenvolvedor em formação | IFPR | Focado em soluções digitais que geram impacto</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=GuilhermeBorgesS&label=Visualizações&color=blue" alt="Visualizações no perfil" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Desenvolvedor+Fullstack+em+formação;Amante+de+tecnologia+e+inovação;Apaixonado+por+resolver+problemas;Buscando+um+estágio+em+TI" />
 </p>
 
 ---
 
-<h4 align="center">Obrigado por visitar meu perfil 🚀</h4>
+### 🚀 Sobre Mim
+
+- 🎓 Estudante de **Informática para Internet** no **IFPR**  
+- 🧠 Curioso por natureza, sempre aprendendo algo novo  
+- 📱 Criador de um aplicativo mobile focado em **organização de estudos**  
+- 🌐 Focado em desenvolvimento **web e mobile fullstack**  
+- 👨‍💻 Buscando oportunidades de **estágio** para aplicar e aprimorar minhas habilidades
+
+---
+
+### 🛠️ Tecnologias & Ferramentas
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,react,html,css,nodejs,python,mysql,git,firebase" />
+</div>
+
+---
+
+### 🧠 Atualmente aprendendo
+
+- 🧩 **TypeScript + React Native** para aplicações mobile robustas
+- ☁️ Integração com **Firebase** e banco de dados em tempo real
+- 🧪 Testes unitários com **Jest**
+- 🔧 Práticas de **Clean Code** e **SOLID**
+- 📱 UI/UX com foco em **design responsivo e acessibilidade**
+
+---
+
+### 📱 Projeto em Destaque
+
+#### <img src="https://img.icons8.com/fluency/24/task.png"/> Projeto-Mobile: App de Organização de Estudos
+
+> Aplicativo mobile criado como TCC no IFPR. Auxilia estudantes na organização de tempo, provas, conteúdo e rotina de estudos.  
+
+**Principais features:**
+
+- ⏳ Timer Pomodoro com sessões e pausas
+- 🗓️ Calendário de provas e avaliações
+- 📔 Área de anotações e conteúdos
+- 📊 Dashboard de desempenho
+
+🔗 **Repositório:** [GuilhermeBorgesS/Projeto-Mobile](https://github.com/GuilhermeBorgesS/Projeto-Mobile)
+
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWIxNjU5YTYzNzA1Y2JjYWE1OTY1YmQ3NTM1YWIxZjEwZTVjODg0NyZjdD1n/RbDKaczqWovIugyJmW/giphy.gif" width="100%" />
+
+---
+
+### 📈 GitHub Stats
+
+<div align="center">
+  <img height="170px" src="https://github-readme-stats.vercel.app/api?username=GuilhermeBorgesS&show_icons=true&theme=github_dark&count_private=true&hide_border=true" />
+  <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeBorgesS&layout=compact&theme=github_dark&hide_border=true" />
+</div>
+
+---
+
+### 🎯 Metas para 2025
+
+- [] Concluir o TCC com excelência  
+- [x] Criar um portfólio profissional online  
+- [ ] Conseguir um estágio na área de desenvolvimento  
+- [ ] Publicar um artigo técnico sobre produtividade com apps  
+- [ ] Aprender Docker e CI/CD
+
+---
+
+### 🤝 Conecte-se comigo
+
+- 📬 Email: **seuemail@email.com**  
+- 💼 LinkedIn: [linkedin.com/in/seuperfil](https://linkedin.com/in/seuperfil)
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=GuilhermeBorgesS&label=Profile+views&color=0e75b6&style=flat" alt="Visualizações no perfil" />
+</p>
+
+---
+
+<h4 align="center">"O sucesso é a soma de pequenos esforços repetidos dia após dia." – Robert Collier</h4>
