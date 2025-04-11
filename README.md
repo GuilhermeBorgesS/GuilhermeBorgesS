@@ -32,7 +32,7 @@
 
 #### 📱 Projeto-Mobile - Plataforma de organização de estudos
 
-> Aplicativo desenvolvido como TCC no IFPR. A proposta é ajudar estudantes a organizarem suas tarefas, anotações, cronogramas e tempo de estudo por meio de uma interface intuitiva.
+> Aplicativo desenvolvido como projeto do 3° ano no IFPR. A proposta é ajudar estudantes a organizarem suas tarefas, anotações, cronogramas e tempo de estudo por meio de uma interface intuitiva.
 
 🔗 [Acesse o repositório aqui](https://github.com/GuilhermeBorgesS/Projeto-Mobile)
 
@@ -49,7 +49,7 @@
 
 ### 🤝 Vamos nos conectar!
 
-- 📫 Email: **seuemail@email.com**
+- 📫 Email: **guilhermebszimzek@gmail.com**
 - 💼 Sempre aberto a novas oportunidades e colaborações!
 
 <p align="center">
