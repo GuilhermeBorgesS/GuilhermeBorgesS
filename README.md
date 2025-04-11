@@ -9,7 +9,7 @@
 💻 Sempre buscando melhorar meus projetos e aprender algo novo  
 🎯 Foco: Desenvolvimento Web e Aplicações para produtividade  
 📚 TCC: Plataforma de organização de estudos com timers, calendário, anotações e muito mais  
-📫 Contato: **seuemail@email.com**
+📫 Contato: **guilhermebszimzek@gmail.com**
 
 ---
 
