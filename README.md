@@ -67,8 +67,8 @@
 
 ### 🎯 Metas para 2025
 
-- [] Concluir o TCC com excelência  
-- [x] Criar um portfólio profissional online  
+- [x] Criar um portfólio profissional online
+- [ ] Concluir o TCC com excelência   
 - [ ] Conseguir um estágio na área de desenvolvimento  
 - [ ] Publicar um artigo técnico sobre produtividade com apps  
 - [ ] Aprender Docker e CI/CD
@@ -77,8 +77,8 @@
 
 ### 🤝 Conecte-se comigo
 
-- 📬 Email: **seuemail@email.com**  
-- 💼 LinkedIn: [linkedin.com/in/seuperfil](https://linkedin.com/in/seuperfil)
+- 📬 Email: **guilhermebszimzek@gmail.com**  
+- 💼 LinkedIn: [linkedin.com/in/seuperfil](https://www.linkedin.com/in/guilherme-szimzek-86247626a/))
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=GuilhermeBorgesS&label=Profile+views&color=0e75b6&style=flat" alt="Visualizações no perfil" />
