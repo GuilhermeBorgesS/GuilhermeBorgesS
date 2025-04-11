@@ -1,57 +1,59 @@
-<!-- README.md para seu perfil do GitHub -->
+<!-- README.md para perfil do GitHub -->
 
-<h1 align="center">Olá 👋, eu sou o Guilherme Borges</h1>
-<h3 align="center">Estudante de TI no IFPR | Apaixonado por tecnologia e desenvolvimento</h3>
-
----
-
-🌱 Atualmente aprendendo: `Python`, `JavaScript`, `Node.js`, `React`, `SQL`  
-💻 Sempre buscando melhorar meus projetos e aprender algo novo  
-🎯 Foco: Desenvolvimento Web e Aplicações para produtividade  
-📚 TCC: Plataforma de organização de estudos com timers, calendário, anotações e muito mais  
-📫 Contato: **guilhermebszimzek@gmail.com**
+<h1 align="center">👋 Olá, eu sou o Guilherme Borges!</h1>
+<h3 align="center">💻 Estudante de TI no IFPR | Apaixonado por desenvolvimento e tecnologia</h3>
 
 ---
 
-### 🛠️ Tecnologias e Ferramentas
+🌟 **Sobre mim**
 
-<div style="display: flex; flex-wrap: wrap;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40px" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40px" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40px" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40px" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40px" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40px" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40px" />
+- 🎓 Estudante do **4º ano de Informática no IFPR**
+- 🚀 Focado em **desenvolvimento de sistemas e produtividade**
+- 💡 Gosto de criar soluções que **ajudem pessoas a organizarem suas rotinas**
+- 📚 Atualmente desenvolvendo meu **TCC com foco em organização de estudos**
+
+---
+
+### 🛠️ Tecnologias que uso
+
+<div style="display: flex; flex-wrap: wrap;" align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40px" title="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40px" title="React Native" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40px" title="Node.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40px" title="Python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40px" title="MySQL" />
 </div>
 
 ---
 
-### 📊 Estatísticas do GitHub
+### 🚧 Projeto em destaque
+
+#### 📱 Projeto-Mobile - Plataforma de organização de estudos
+
+> Aplicativo desenvolvido como TCC no IFPR. A proposta é ajudar estudantes a organizarem suas tarefas, anotações, cronogramas e tempo de estudo por meio de uma interface intuitiva.
+
+🔗 [Acesse o repositório aqui](https://github.com/GuilhermeBorgesS/Projeto-Mobile)
+
+---
+
+### 📊 Estatísticas GitHub
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=SeuUsuario&show_icons=true&theme=dracula&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SeuUsuario&layout=compact&theme=dracula" />
+  <img height="170px" src="https://github-readme-stats.vercel.app/api?username=GuilhermeBorgesS&show_icons=true&theme=tokyonight&count_private=true" />
+  <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeBorgesS&layout=compact&theme=tokyonight" />
 </div>
 
 ---
 
-### 🚀 Projetos em Destaque
+### 🤝 Vamos nos conectar!
 
-- 🔗 [Organizador de Estudos Mobile ](https://github.com/GuilhermeBorgesS/Projeto-Mobile)
+- 📫 Email: **seuemail@email.com**
+- 💼 Sempre aberto a novas oportunidades e colaborações!
 
-
----
-
-### ✨ Curiosidades
-
-- Eu adoro aprender coisas novas — especialmente sobre produtividade e automações!
-- Nos tempos livres, gosto de programar projetos próprios e explorar novas techs.
-- Meu objetivo é estagiar em uma empresa de tecnologia para ganhar mais experiência 🚀
-
----
-
-<h3 align="center">Obrigado por visitar meu perfil 💙</h3>
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=SeuUsuario&label=Visualizações&color=blue" alt="Visualizações" />
+  <img src="https://komarev.com/ghpvc/?username=GuilhermeBorgesS&label=Visualizações&color=blue" alt="Visualizações no perfil" />
 </p>
+
+---
+
+<h4 align="center">Obrigado por visitar meu perfil 🚀</h4>
