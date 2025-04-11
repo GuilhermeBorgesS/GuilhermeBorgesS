@@ -38,9 +38,8 @@
 
 ### 🚀 Projetos em Destaque
 
-- 🔗 [Organizador de Estudos (TCC)](https://github.com/SeuUsuario/organizadordestudos)  
-- 🔗 [Timer Pomodoro Web](https://github.com/SeuUsuario/pomodoro-timer)
-- 🔗 [App de Notas com React](https://github.com/SeuUsuario/react-notes)
+- 🔗 [Organizador de Estudos Mobile ]([https://github.com/SeuUsuario/organizadordestudos](https://github.com/GuilhermeBorgesS/Projeto-Mobile))  
+
 
 ---
 
