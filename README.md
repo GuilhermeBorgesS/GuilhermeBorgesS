@@ -31,7 +31,6 @@
 
 - 🧩 **TypeScript + React Native** para aplicações mobile robustas
 - ☁️ Integração com **Firebase** e banco de dados em tempo real
-- 🧪 Testes unitários com **Jest**
 - 🔧 Práticas de **Clean Code** e **SOLID**
 - 📱 UI/UX com foco em **design responsivo e acessibilidade**
 
@@ -41,7 +40,7 @@
 
 #### <img src="https://img.icons8.com/fluency/24/task.png"/> Projeto-Mobile: App de Organização de Estudos
 
-> Aplicativo mobile criado como TCC no IFPR. Auxilia estudantes na organização de tempo, provas, conteúdo e rotina de estudos.  
+> Aplicativo mobile criado como projeto do 3° ano no IFPR. Auxilia estudantes na organização de tempo, provas, conteúdo e rotina de estudos.  
 
 **Principais features:**
 
@@ -78,7 +77,7 @@
 ### 🤝 Conecte-se comigo
 
 - 📬 Email: **guilhermebszimzek@gmail.com**  
-- 💼 LinkedIn: [linkedin.com/in/seuperfil](https://www.linkedin.com/in/guilherme-szimzek-86247626a/))
+- 💼 LinkedIn:(https://www.linkedin.com/in/guilherme-szimzek-86247626a/)
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=GuilhermeBorgesS&label=Profile+views&color=0e75b6&style=flat" alt="Visualizações no perfil" />
