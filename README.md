@@ -38,7 +38,7 @@
 
 ### 🚀 Projetos em Destaque
 
-- 🔗 [Organizador de Estudos Mobile ]([https://github.com/SeuUsuario/organizadordestudos](https://github.com/GuilhermeBorgesS/Projeto-Mobile))  
+- 🔗 [Organizador de Estudos Mobile ](https://github.com/GuilhermeBorgesS/Projeto-Mobile)
 
 
 ---
