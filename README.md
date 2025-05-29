@@ -70,7 +70,6 @@
 - [ ] Concluir o TCC com excelência   
 - [ ] Conseguir um estágio na área de desenvolvimento  
 - [ ] Publicar um artigo técnico sobre produtividade com apps  
-- [ ] Aprender Docker e CI/CD
 
 ---
 
