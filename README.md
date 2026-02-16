@@ -1,7 +1,7 @@
 <!-- README.md | Perfil Profissional - Guilherme Borges -->
 
 <h1 align="center">Olá! Eu sou o Guilherme Borges 👋</h1>
-<h3 align="center">Desenvolvedor em formação | IFPR | Focado em soluções digitais que geram impacto</h3>
+<h3 align="center">Dev. Formado | IFPR | Focado em soluções digitais que geram impacto</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Desenvolvedor+Fullstack+em+formação;Amante+de+tecnologia+e+inovação;Apaixonado+por+resolver+problemas;Buscando+um+estágio+em+TI" />
@@ -13,8 +13,7 @@
 
 - 🎓 Estudante de **Informática para Internet** no **IFPR**  
 - 🧠 Curioso por natureza, sempre aprendendo algo novo  
-- 📱 Criador de um aplicativo mobile focado em **organização de estudos**  
-- 🌐 Focado em desenvolvimento **web e mobile fullstack**  
+- 🌐 Focado em desenvolvimento **web fullstack**  
 - 👨‍💻 Buscando oportunidades de **estágio** para aplicar e aprimorar minhas habilidades
 
 ---
@@ -29,7 +28,7 @@
 
 ### 🧠 Atualmente aprendendo
 
-- 🧩 **TypeScript + React Native** para aplicações mobile robustas
+- 🧩 **TypeScript + React** para aplicações mobile robustas
 - ☁️ Integração com **Firebase** e banco de dados em tempo real
 - 🔧 Práticas de **Clean Code** e **SOLID**
 - 📱 UI/UX com foco em **design responsivo e acessibilidade**
@@ -38,9 +37,9 @@
 
 ### 📱 Projeto em Destaque
 
-#### <img src="https://img.icons8.com/fluency/24/task.png"/> Projeto-Mobile: App de Organização de Estudos
+#### <img src="https://img.icons8.com/fluency/24/task.png"/> Projeto: Sistema de Organização de Estudos
 
-> Aplicativo mobile criado como projeto do 3° ano no IFPR. Auxilia estudantes na organização de tempo, provas, conteúdo e rotina de estudos.  
+>Sistema Web criado como projeto do 4° ano no IFPR. Auxilia estudantes na organização de tempo, provas, conteúdo e rotina de estudos, com APIS do google.  
 
 **Principais features:**
 
@@ -67,10 +66,8 @@
 ### 🎯 Metas para 2025
 
 - [x] Criar um portfólio profissional online
-- [ ] Concluir o TCC com excelência   
-- [ ] Conseguir um estágio na área de desenvolvimento  
-- [ ] Publicar um artigo técnico sobre produtividade com apps  
-
+- [x] Concluir o TCC com excelência   
+- [ ] Conseguir um estágio na área de desenvolvimento 
 ---
 
 ### 🤝 Conecte-se comigo
