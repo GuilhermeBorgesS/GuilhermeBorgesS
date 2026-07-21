@@ -28,12 +28,8 @@
 
 ### 🧠 Atualmente aprendendo
 
-- 🧩 **TypeScript + React** para aplicações mobile robustas
-- ☁️ Integração com **Firebase** e banco de dados em tempo real
-- 🔧 Práticas de **Clean Code** e **SOLID**
-- 📱 UI/UX com foco em **design responsivo e acessibilidade**
-
----
+- 🧩 **TypeScript + React** 
+- 🔧 Práticas de **Clean Code**
 
 ### 📱 Projeto em Destaque
 
@@ -48,18 +44,8 @@
 - 📔 Área de anotações e conteúdos
 - 📊 Dashboard de desempenho
 
-🔗 **Repositório:** [GuilhermeBorgesS/Projeto-Mobile](https://github.com/GuilhermeBorgesS/Projeto-Mobile)
-
 <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGtlcnI5YjM4aThscmM3dm81eTBiMDFveHFtaTNvZXFyYWtrM3JyOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" width="70%" />
 
----
-
-### 🎯 Metas para 2025
-
-- [x] Criar um portfólio profissional online
-- [x] Concluir o TCC com excelência   
-- [ ] Conseguir um estágio na área de desenvolvimento 
----
 
 ### 🤝 Conecte-se comigo
 
