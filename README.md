@@ -1,7 +1,6 @@
 <!-- README.md | Perfil Profissional - Guilherme Borges -->
 
-<h1 align="center">Olá! Eu sou o Guilherme Borges 👋</h1>
-<h3 align="center">Dev. Formado | IFPR | Focado em soluções digitais que geram impacto</h3>
+<h1 align="center">Olá! Eu sou o Guilherme Szimzek 👋</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Desenvolvedor+Fullstack+em+formação;Amante+de+tecnologia+e+inovação;Apaixonado+por+resolver+problemas;Buscando+um+estágio+em+TI" />
