@@ -11,7 +11,7 @@
 
 ### 🚀 Sobre Mim
 
-- 🎓 Estudante de **Informática** na **UniBrasil**  
+- 🎓 Estudante de **Engenharia de Software** na **UniBrasil**  
 - 🧠 Curioso por natureza, sempre aprendendo algo novo  
 - 🌐 Focado em desenvolvimento **web fullstack**  
 - 👨‍💻 Buscando oportunidades de **estágio** para aplicar e aprimorar minhas habilidades
